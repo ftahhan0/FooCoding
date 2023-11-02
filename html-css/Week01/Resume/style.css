@@ -1,0 +1,29 @@
+ 
+   style         
+             h1 {font-family: impact;
+    }
+h2 { 
+        color: navy;
+     } 
+      h1,h2 {
+        text-align: center;
+      }
+     h1
+     {
+        font-size: 40px;
+     }
+     img.image {margin-bottom: 10px;}
+
+
+    body {
+  width: 90%;
+  background-color: rgba(223, 221, 221, 0.726);
+  
+    }
+    hr {
+            width: 100%;
+            height: 3px;
+            background-color: rgba(59, 144, 170, 0.815);
+          }
+
+        
